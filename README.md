@@ -10,6 +10,7 @@ Este projeto de inteligência artificial tem como objetivo criar um medidor simp
 
 ## 	:pushpin: Descrição
 O programa constitui em uma combinação entre as linguagens de programação Arduino e Python, para medir o pH e a temperatura da água utilizando sensores de pH e temperatura. O código em python foi utilizado para programar a lógica fuzzy do projeto e a definição das qualidades da água para determinadas faixas de valores de pH e temperaturas. O código em Arduino possibilitou a integração da lógica fuzzy em Python com os sensores e as leds, na protoboard.
+_Para informações mais detalhadas acesse a documentação em pdf:_ [Documentação do projeto](https://github.com/vicfior/Medidor-de-qualidade-da-agua/blob/00bcd7de9b5c55c67d9be52aaa5e9eec436d0195/Imagens/Trabalho%20IA.pdf)
 
 ## :gear: Ferramentas utilizadas: 
 - sensor de pH PH4502C
