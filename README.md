@@ -1,6 +1,9 @@
 <h1 align="center"> Medidor de qualidade da água </h1>
 
 Este projeto de inteligência artificial tem como objetivo criar um medidor simples de qualidade da água baseando-se nos valores de pH e temperatura. 
+<p align="center">
+<img src="https://github.com/vicfior/Medidor-de-qualidade-da-agua/blob/0ba98e9cbc71f3c72ade1e70bb484de3ef80ca47/Imagens/Medidor%20de%20qualidade.png" alt="Medidor completo" width="500">
+</p>
 
 ## :clamp: Tecnologias utilizadas: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
